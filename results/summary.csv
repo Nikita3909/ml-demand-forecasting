@@ -1,0 +1,5 @@
+best_model,Random forest
+best_wape,12.03
+baseline_wape,14.58
+error_reduction_pct,17.5
+cartons_less_error_per_week,102

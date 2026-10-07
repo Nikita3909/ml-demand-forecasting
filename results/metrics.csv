@@ -1,0 +1,8 @@
+,WAPE %,MAE,RMSE,Bias %,WAPE std (folds)
+Random forest,12.03,47.94,69.42,-1.29,1.13
+Holt-Winters,12.67,50.48,73.28,-4.41,1.05
+Ridge regression,12.87,51.29,73.47,-1.28,1.12
+Gradient boosting,13.35,53.19,80.57,-1.85,0.91
+Seasonal naive (last year),14.58,58.12,82.96,-5.9,1.48
+Naive (last week),16.39,65.31,89.33,-8.32,2.52
+Moving average (8 wk),17.68,70.47,103.05,-9.41,3.73
